@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # static-tweet
 # props-tweet
 # PROPTYPES-TWEET
+# PROPTYPES-TWEET
